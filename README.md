@@ -2,10 +2,10 @@
 Javascript30 is a thirty day challenge created by [Web Bos](https://twitter.com/wesbos).
 
 
-*No Frameworks    
-*No Compilers    
-*No Libraries    
-*No Boilerplate    
+* No Frameworks    
+* No Compilers    
+* No Libraries    
+* No Boilerplate    
 
 
 [#Official Github Repository](https://github.com/wesbos/JavaScript30)    
