@@ -1,1 +1,2 @@
-.jshintrc
+*.jshintrc
+*index-FINISHED.html
