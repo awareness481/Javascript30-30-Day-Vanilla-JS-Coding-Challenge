@@ -1,5 +1,5 @@
 # Javascript30-30-Day-Vanilla-JS-Coding-Challenge
-Javascript30 is a thirty day challenge created by [Web Bos](https://twitter.com/wesbos).
+Javascript30 is a thirty day challenge created by [Wes Bos](https://twitter.com/wesbos).
 
 
 * No Frameworks    
