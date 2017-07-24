@@ -1,5 +1,5 @@
 **Starter File**
-* [index-START.html]()
+* [index-START.html](https://github.com/wesbos/JavaScript30/blob/master/15%20-%20LocalStorage/index-START.html)
 
 ## Persisting LocalStorage
         
