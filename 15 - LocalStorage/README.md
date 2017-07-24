@@ -1,5 +1,5 @@
 **Starter File**
-* [script-START.html]()
+* [index-START.html]()
 
 ## Persisting LocalStorage
         
