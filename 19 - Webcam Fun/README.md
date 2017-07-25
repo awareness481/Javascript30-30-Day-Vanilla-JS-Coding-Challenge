@@ -3,7 +3,7 @@
 
 ## Webcam Fun
 
-** Usage **
+**Usage**
 
 * cd to the project folder
 * Run `$ npm install`
