@@ -3,3 +3,5 @@
 *.surgeignore
 *scripts-FINISHED.js
 *index-finished.html
+node_modules/
+*package-lock.json
